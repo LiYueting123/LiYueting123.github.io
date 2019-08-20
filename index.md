@@ -7,14 +7,6 @@ layout: default
 
 A skeleton-site for a personal academic website, written in Jekyll for hosting with GitHub Pages.
 
-## Features
-- Minimal, clean design
-	- CV-specific print-style
-- Responsive layout with collapsible sidebar-menu
-	- Hierarchical menu with deep linking
-- Site-wide search-system
-- Simple social sharing buttons
-- Optional MathJax for displaying mathematical notations
 
 ## Setup
 
