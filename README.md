@@ -1,14 +1,6 @@
 # Personal Academic Website
 A skeleton-site for a personal academic website, written in Jekyll for hosting with GitHub Pages.
 
-## Features
-- Minimal, clean design
-	- CV-specific print-style
-- Responsive layout with collapsible sidebar-menu
-	- Hierarchical menu with deep linking
-- Site-wide search-system
-- Simple social sharing buttons
-- Optional MathJax for displaying mathematical notations
 
 ## Setup
 
@@ -62,11 +54,11 @@ Notes:
 ```
 education:
   - years: 2013-2015
-    name: Master’s Degree
+    name: Masterâ€™s Degree
     location: University
     description: Includes qualitative and quantitative methods.
   - years: 2010-2013
-    name: Bachelor’s Degree
+    name: Bachelorâ€™s Degree
     location: University
     description: Includes statistics and maths.
 ```
