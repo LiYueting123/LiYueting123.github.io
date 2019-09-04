@@ -29,9 +29,9 @@ experience:
 education:
   - years: 2016-2020
     name: HUAZHONG UNIVERSITY OF SCIENCE & TECHNOLOGY, Wuhan, China
-    #name: Degree:Bachelor of Engineering
-    #name: Major:Engineering in Electrical Engineering and Automation
-    #name: Cumulative GPA:88.76/100
+    - Degree:Bachelor of Engineering
+    - Major:Engineering in Electrical Engineering and Automation
+    - Cumulative GPA:88.76/100
   - years: 2010-2013
     name: Bachelor’s Degree in Political Economy
     location: University of Bergen
