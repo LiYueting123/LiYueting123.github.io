@@ -27,12 +27,11 @@ experience:
     location: Sixt Norway
     description: Customer Service, logistics, preparation of rental cars.
 education:
-  - years: September 2016-June 2020
-    name: Bachelor of Engineering
-    major: Engineering in Electrical Engineering and Automation
-    Cumulative GPA: 88.76/100
-    location: HUAZHONG UNIVERSITY OF SCIENCE & TECHNOLOGY (HUST), Wuhan, China
-    description: Includes qualitative and quantitative methods. Thesis written within the field of comparative political economy, titled "A changed welfare-state. Sweden through the 1980s, How the organization of labor unions and politics matter for economic performance", and graded as exceptional.
+  - years: 2016-2020
+    location: HUAZHONG UNIVERSITY OF SCIENCE & TECHNOLOGY, Wuhan, China.
+    name: Degree:Bachelor of Engineering
+          Major:Engineering in Electrical Engineering and Automation
+          Cumulative GPA:88.76/100
   - years: 2010-2013
     name: Bachelor’s Degree in Political Economy
     location: University of Bergen
